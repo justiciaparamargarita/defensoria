@@ -2,6 +2,7 @@
 fecha: "2022-08-31"
 fecha_creacion_pdf: "2022-08-30T16:13:14Z"
 origen_email: "fuentes/emails/defensoria.org.ar/2022-08/remision-res-n-2103-22-tramite-n-22466-2.e0840.eml"
+firma_digital: "María Rosa Muiños Aug 30 2022 16:13:40; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 Ciudad Autónoma de Buenos Aires, 30 de Agosto de 2022.VISTO:
