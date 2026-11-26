@@ -18,7 +18,3 @@ También es sospechoso que me hayan avisado el mismo 29 de marzo de una resoluci
 ¿Se puede saber que paso? Pueden reenviar la resolución a los mails incluidos en CC a ver si quieren hacer algo por su cuenta.
 
 Gracias!
-
-El 29/3/21 a las 14:02, Nicolas H. Kosciuk escribió:
-
-> Hola, lo archivaron el 5 de febrero y notifican ahora?
