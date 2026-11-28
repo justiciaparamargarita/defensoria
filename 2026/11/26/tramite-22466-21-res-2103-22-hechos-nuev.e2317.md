@@ -30,4 +30,4 @@ Nicolás Horacio Kosciuk
 DNI 28.731.776
 Tel. 15-2402-0854
 
-- adjunto `informe.pdf`: `causas/defensoria/2020/04/28/informe.e2317.pdf`
+- adjunto `informe.pdf`: `causas/defensoria/2026/11/26/informe.e2317.pdf`
